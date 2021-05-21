@@ -1,0 +1,13 @@
+body{
+    color: aquamarine;
+}
+
+.big-title{
+  font-size: 5rem;
+  font-style: italic;
+  color:blue;
+}
+cite{
+    color: blue;
+
+}
